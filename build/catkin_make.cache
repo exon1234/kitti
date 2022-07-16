@@ -1,0 +1,2 @@
+kitti_tutorial
+-DCATKIN_DEVEL_PREFIX=/home/exon123/kitti/devel -DCMAKE_INSTALL_PREFIX=/home/exon123/kitti/install -G Unix Makefiles
